@@ -35,10 +35,15 @@ I've been fortunate to have supportive parents who encouraged my curiosity from 
 https://github.com/user-attachments/assets/4aac6cd0-8420-4e6f-aeac-1772b0e983b5
 
 ### 3. **3D Printing Enthusiast**
-- **Description**: I’ve been 3D printing since I was a kid, exploring designs ranging from simple toys to complex mechanical parts.
+- **Description**: I’ve been 3D printing since I was a kid, exploring designs ranging from simple toys to complex mechanical parts. I've recently 
 - **Challenges**: Perfecting the calibration of the printer and designing objects with precise measurements.
 - **Approach**: Constant experimentation and iteration, utilizing CAD software to design and refine models.
 - **Project Repository**: Coming soon!
+
+**The lab**
+
+![IMG_2769](https://github.com/user-attachments/assets/ecfa5030-9e0f-449a-8d1d-40c39ac733d3)
+
 
 ## My Approach to Learning
 Learning is not always linear, and I’ve faced my fair share of challenges along the way. I focus on breaking down problems into smaller components, experimenting with different solutions, and refining my understanding through continuous feedback. My GitHub projects showcase both my successes and the challenges I encounter as I learn.
