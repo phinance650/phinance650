@@ -12,9 +12,9 @@ I've been fortunate to have supportive parents who encouraged my curiosity from 
 
 ## Projects
 
-### 1. **TurtleBot4 Autonomous Robot: Cat Behavior Modification**
-- **Description**: This project involves creating an autonomous robot that uses a water cannon to gently spray our cats when they scratch the furniture.
-- **Challenges**: Developing precise detection algorithms to identify when cats are scratching the furniture, and calibrating the water cannon's aim.
+### 1. **TurtleBot4 Autonomous Robot [Purr Patrol]: Cat Behavior Modification**
+- **Description**: "Purr Patrol" is an autonomous robotics project designed to monitor and correct the behavior of my Sphynx cats based on TurtleBot infrastructure.  When completed, the agent will be Equipped with behavior recognition capabilities and a water cannon by which the system identifies when cats are scratching furniture and gently intervenes to guide them toward better habits.
+- **Challenges**: Developing precise detection algorithms to identify when cats are scratching the furniture, and calibrating the water cannon's aim. This project highlighted the prererquisites to learning robotics which spans CS, EE and ME. [See prerequisites]
 - **Approach**: I used Python for programming the robot's logic, integrating sensors for motion detection, and 3D-printed components to enhance the robot's structure.
 - [Link to Project Repository](#) - **Project Repository**: Coming soon!
 
@@ -43,11 +43,18 @@ https://github.com/user-attachments/assets/4aac6cd0-8420-4e6f-aeac-1772b0e983b5
 - **Approach**: Constant experimentation and iteration, utilizing CAD software to design and refine models.
 - **Project Repository**: Coming soon!
 
+### 4. **3D Prerequisites
+- **Description**: While tackling the 
+- **Challenges**: Perfecting the calibration of the printer and designing objects with precise measurements.
+- **Approach**: Constant experimentation and iteration, utilizing CAD software to design and refine models.
+- **Project Repository**: Coming soon!
+
 
 ## My Approach to Learning
 Learning is not always linear, and I’ve faced my fair share of challenges along the way. I focus on breaking down problems into smaller components, experimenting with different solutions, and refining my understanding through continuous feedback. My GitHub projects showcase both my successes and the challenges I encounter as I learn.
 
 ### Challenges Faced
+- The learning curve is super steep in robotics (CS, ME & EE). I've been super fortunate to have help wiring up enviorments for me to play with. Special thanks to [@wmcclinton](https://github.com/wmcclinton) for their contributions to [PyLego](https://github.com/wmcclinton/pylego).
 - Understanding complex algorithms and applying them to real-world robotics scenarios.
 - Balancing theoretical knowledge with hands-on implementation.
 - Learning from failures and using them as stepping stones for growth.
