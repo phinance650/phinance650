@@ -16,7 +16,7 @@ I've been fortunate to have supportive parents who encouraged my curiosity from 
 - **Description**: This project involves creating an autonomous robot that uses a water cannon to gently spray our cats when they scratch the furniture.
 - **Challenges**: Developing precise detection algorithms to identify when cats are scratching the furniture, and calibrating the water cannon's aim.
 - **Approach**: I used Python for programming the robot's logic, integrating sensors for motion detection, and 3D-printed components to enhance the robot's structure.
-- [Link to Project Repository](#) *(Replace this with your project link once uploaded)*
+- [Link to Project Repository](#) - **Project Repository**: Coming soon!
 
 ![IMG_2620](https://github.com/user-attachments/assets/d3cd25cf-0cea-455f-9c12-c2c575af8f0e)
 
@@ -25,12 +25,23 @@ I've been fortunate to have supportive parents who encouraged my curiosity from 
 - **Description**: Participated in the Summer High School Academic Program for Engineers (SHAPE) at Columbia University, where I gained deeper insights into engineering principles.
 - **Highlights**: Worked on team-based projects, explored new software tools, and learned advanced problem-solving techniques.
 - **Project Repository**: Coming soon!
+  
+![IMG_1098](https://github.com/user-attachments/assets/54c2556d-3c23-4e1c-af05-a5969df7cb51)
+![IMG_1096](https://github.com/user-attachments/assets/cb27b773-9b23-4d6d-b525-a0393fbe4e3f)
+![IMG_1092](https://github.com/user-attachments/assets/c7e769cd-1b36-4822-a045-99d240942304)
+
+Its alive!
+
+
+https://github.com/user-attachments/assets/4aac6cd0-8420-4e6f-aeac-1772b0e983b5
+
+
 
 ### 3. **3D Printing Enthusiast**
 - **Description**: I’ve been 3D printing since I was a kid, exploring designs ranging from simple toys to complex mechanical parts.
 - **Challenges**: Perfecting the calibration of the printer and designing objects with precise measurements.
 - **Approach**: Constant experimentation and iteration, utilizing CAD software to design and refine models.
-- [Link to Portfolio](#) *(Include images or models you've created over the years)*
+- **Project Repository**: Coming soon!
 
 
 ## My Approach to Learning
