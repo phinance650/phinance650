@@ -58,7 +58,7 @@ I aim to contribute to the field of Mechanical Engineering through innovative re
 ## Let's Connect!
 I'm always open to feedback, collaboration, and learning from others. Feel free to explore my projects and connect with me if you share similar interests!
 
-[LinkedIn](#) | [Twitter](#) | [Personal Blog](#) *(Links to your social profiles or blog if you have them)*
+[LinkedIn](https://www.linkedin.com/in/gavin-alder-a709b432b/) | [Twitter](#) | [Personal Blog](#)
 
 <!--
 **phinance650/phinance650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
