@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to My GitHub Journey
+# Welcome to My Educational Journey
 
 ![Gavin Alder - Walking Robots](https://github.com/user-attachments/assets/798ffbd8-c551-44f2-b571-250ca95361c5)
 
@@ -30,25 +30,15 @@ I've been fortunate to have supportive parents who encouraged my curiosity from 
 ![IMG_1096](https://github.com/user-attachments/assets/cb27b773-9b23-4d6d-b525-a0393fbe4e3f)
 ![IMG_1092](https://github.com/user-attachments/assets/c7e769cd-1b36-4822-a045-99d240942304)
 
-Its alive!
-
+**Its alive!**
 
 https://github.com/user-attachments/assets/4aac6cd0-8420-4e6f-aeac-1772b0e983b5
-
-
 
 ### 3. **3D Printing Enthusiast**
 - **Description**: I’ve been 3D printing since I was a kid, exploring designs ranging from simple toys to complex mechanical parts.
 - **Challenges**: Perfecting the calibration of the printer and designing objects with precise measurements.
 - **Approach**: Constant experimentation and iteration, utilizing CAD software to design and refine models.
 - **Project Repository**: Coming soon!
-
-### 4. **3D Prerequisites
-- **Description**: While tackling the 
-- **Challenges**: Perfecting the calibration of the printer and designing objects with precise measurements.
-- **Approach**: Constant experimentation and iteration, utilizing CAD software to design and refine models.
-- **Project Repository**: Coming soon!
-
 
 ## My Approach to Learning
 Learning is not always linear, and I’ve faced my fair share of challenges along the way. I focus on breaking down problems into smaller components, experimenting with different solutions, and refining my understanding through continuous feedback. My GitHub projects showcase both my successes and the challenges I encounter as I learn.
